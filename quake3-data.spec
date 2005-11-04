@@ -9,7 +9,7 @@ Release:	1
 License:	Q3A EULA, PB EULA
 Group:		Applications/Games
 Source0:	ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-%{_dataver}.x86.run
-# Source1-md5:	c71fdddccb20e8fc393d846e9c61d685
+# Source0-md5:	c71fdddccb20e8fc393d846e9c61d685
 BuildRequires:	rpmbuild(macros) >= 1.202
 Requires:	quake3-common
 Conflicts:	quake3-common < 1.33-0.20051103.1
