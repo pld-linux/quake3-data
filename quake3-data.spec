@@ -6,7 +6,7 @@ Summary(pl):	Quake3 dla Linuksa
 Name:		quake3-data
 Version:	%{_version}
 Release:	1
-License:	Q3A EULA, PB EULA
+License:	Q3A EULA, PB EULA (non-commercially distributable)
 Group:		Applications/Games
 Source0:	ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-%{_dataver}.x86.run
 # Source0-md5:	c71fdddccb20e8fc393d846e9c61d685
