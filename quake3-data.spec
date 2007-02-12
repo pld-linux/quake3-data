@@ -2,7 +2,7 @@
 %define _version	%(echo %{_dataver} | tr -d -)
 
 Summary:	Quake3 for Linux
-Summary(pl):	Quake3 dla Linuksa
+Summary(pl.UTF-8):   Quake3 dla Linuksa
 Name:		quake3-data
 Version:	%{_version}
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Additional pak files for Quake 3 Arena.
 
-%description -l pl
+%description -l pl.UTF-8
 Dodatkowe pliki pak dla Quake 3 Arena.
 
 %prep
