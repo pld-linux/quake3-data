@@ -2,7 +2,7 @@
 %define _version	%(echo %{_dataver} | tr -d -)
 
 Summary:	Quake3 for Linux
-Summary(pl.UTF-8):   Quake3 dla Linuksa
+Summary(pl.UTF-8):	Quake3 dla Linuksa
 Name:		quake3-data
 Version:	%{_version}
 Release:	1
