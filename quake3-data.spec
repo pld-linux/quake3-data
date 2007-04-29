@@ -10,6 +10,7 @@ License:	Q3A EULA, PB EULA (non-commercially distributable)
 Group:		Applications/Games
 Source0:	ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-%{_dataver}.x86.run
 # Source0-md5:	c71fdddccb20e8fc393d846e9c61d685
+URL:		http://www.quake3arena.com/
 Requires:	quake3-common
 Conflicts:	quake3-common < 1.33-0.20051103.1
 BuildArch:	noarch
