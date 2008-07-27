@@ -5,7 +5,7 @@ Summary:	Quake3 III Arena additional files
 Summary(pl.UTF-8):	Dodatkowe pliki dla Quake III Arena
 Name:		quake3-data
 Version:	%{_version}
-Release:	1
+Release:	2
 License:	Q3A EULA, PB EULA (non-commercially distributable)
 Group:		Applications/Games
 Source0:	ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-%{_dataver}.x86.run
